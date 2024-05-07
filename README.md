@@ -12,7 +12,7 @@
 
 ### About
 
-This repository contains the Power BI Project7- Road Accident Analysis, which provides insights into road accidents in the United Kingdom caused by different factors such as vehicle types, road surface conditions, weather conditions, and light conditions.
+This project insights into road accidents in the United Kingdom caused by different factors such as vehicle types, road surface conditions, weather conditions, and light conditions.
 
 ---
 
