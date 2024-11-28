@@ -1,5 +1,7 @@
 # PowerBIProject7 - Road Accident Analysis
 
+Explore the interactive dashboard: [Road Accident Analysis](https://app.powerbi.com/view?r=eyJrIjoiM2VjMzNmMDYtNzg4YS00YTFlLTkxMjAtY2Y3NjFkYjg3YTZjIiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ### Table of Contents
 
 - [About](#about)
